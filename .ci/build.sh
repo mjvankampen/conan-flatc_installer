@@ -2,4 +2,4 @@
 
 set -ex
 
-conan install protobuf/3.6.1@bincrafters/stable --build protobuf
+conan install flatbuffers/1.11.0@google/stable --build flatbuffers
