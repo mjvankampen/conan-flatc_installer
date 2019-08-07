@@ -2,7 +2,7 @@
 
 | Bintray | Windows | Linux & macOS |
 |:--------:|:---------:|:-----------------:|
-|[![Download](https://api.bintray.com/packages/mjvk/public-conan/flatc_installer/images/download.svg) ](https://bintray.com/mjvk/public-conan/flatc_installer/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/kb4flo335xma7fy3?svg=true)](https://ci.appveyor.com/project/mjvk/conan-flatc-installer)|[![Build Status](https://travis-ci.com/mjvk/conan-flatc_installer.svg?branch=testing%2F1.11.0)](https://travis-ci.com/mjvk/conan-flatc_installer)
+|[![Download](https://api.bintray.com/packages/mjvk/public-conan/flatc_installer%3Amjvk/images/download.svg) ](https://bintray.com/mjvk/public-conan/flatc_installer%3Amjvk/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/kb4flo335xma7fy3?svg=true)](https://ci.appveyor.com/project/mjvk/conan-flatc-installer)|[![Build Status](https://travis-ci.com/mjvk/conan-flatc_installer.svg?branch=testing%2F1.11.0)](https://travis-ci.com/mjvk/conan-flatc_installer)
 
 ## Conan.io Information
 
