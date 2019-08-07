@@ -8,7 +8,7 @@ class ProtobufConan(ConanFile):
     url = "https://github.com/bincrafters/conan-protoc_installer"
     homepage = "https://github.com/google/flatbuffers"
     topics = ("flatbuffers", "flatbuffers compiler", "serialization", "rpc")
-    author = "mjvk <>"
+    author = "markjan <>"
     description = ("flatc is a compiler for flatbuffers schema files. It can "
                    "generate among others C++, Java and Python code.")
     license = "BSD-3-Clause"
